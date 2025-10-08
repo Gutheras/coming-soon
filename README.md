@@ -18,7 +18,7 @@ A sleek, modern and fully responsive **Coming Soon** landing page built using **
 
 ---
 ## 📁 Project Structure
-
+``
 coming-soon/
 ├── assets/
 │   ├── css/                  # All stylesheet files
@@ -29,7 +29,7 @@ coming-soon/
 │   └── js/                   # Countdown and other JavaScript files
 ├── index.html                # Main landing page file
 └── README.md                 # Project documentation
-
+``
 
 ---
 
